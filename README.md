@@ -6,6 +6,8 @@ Sources i used as guides: https://tsmatz.wordpress.com/2020/07/09/minerl-and-mal
 Project description:
 Demis Hassabis, founder of Deepmind, the company that madwe AlphaGo and AlphaZero, says that video games are the best way to train AI agents using reinforcement learning, for many reasons, mostly because games are the perfect way to run any number of simulations, trails and errors, in order to improve the AI agent.
 
+I use MineRL,which provides an OpenAI Gym-integrated environment and has a lot of pre-built missions.
+
 In this project of mine, I created an AI agent that plays minecraft, using the following dependencies and code: 
 
 
